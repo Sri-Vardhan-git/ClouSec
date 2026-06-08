@@ -1,0 +1,6 @@
+boto3
+flask
+apscheduler
+pymongo
+python-dotenv
+awscli
